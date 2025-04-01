@@ -1,0 +1,35 @@
+# Python virtual environments
+venv/
+.env/
+env/
+
+# Logs
+logs/
+*.log
+
+# Cached Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+pip-wheel-metadata/
+
+# Data and model files (if large or generated)
+data/*.csv
+data/*.json
+models/*.h5
+models/*.pkl
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
