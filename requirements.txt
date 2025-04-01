@@ -1,8 +1,10 @@
 fastapi==0.115.12
 uvicorn==0.22.0
 sentence-transformers==2.5.1
-spacy==3.7.0
+spacy==3.8.4
 river==0.14.0
 numpy==2.2.4
+jax==0.5.3
+jaxlib==0.5.3
 python-socketio==5.7.2
 pydantic==2.10.6
